@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { ChevronDown, ChevronUp } from "./icons";
 
 function CartItem({ id, img, title, price, amount }) {
